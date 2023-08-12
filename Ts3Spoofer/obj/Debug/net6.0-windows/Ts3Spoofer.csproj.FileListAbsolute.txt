@@ -1,0 +1,17 @@
+C:\Users\Daklu\Desktop\PW\Ts3Spoofer\Ts3Spoofer\bin\Debug\net6.0-windows\Ts3Spoofer.exe
+C:\Users\Daklu\Desktop\PW\Ts3Spoofer\Ts3Spoofer\bin\Debug\net6.0-windows\Ts3Spoofer.deps.json
+C:\Users\Daklu\Desktop\PW\Ts3Spoofer\Ts3Spoofer\bin\Debug\net6.0-windows\Ts3Spoofer.runtimeconfig.json
+C:\Users\Daklu\Desktop\PW\Ts3Spoofer\Ts3Spoofer\bin\Debug\net6.0-windows\Ts3Spoofer.dll
+C:\Users\Daklu\Desktop\PW\Ts3Spoofer\Ts3Spoofer\bin\Debug\net6.0-windows\Ts3Spoofer.pdb
+C:\Users\Daklu\Desktop\PW\Ts3Spoofer\Ts3Spoofer\obj\Debug\net6.0-windows\Ts3Spoofer.csproj.AssemblyReference.cache
+C:\Users\Daklu\Desktop\PW\Ts3Spoofer\Ts3Spoofer\obj\Debug\net6.0-windows\Ts3Spoofer.Form1.resources
+C:\Users\Daklu\Desktop\PW\Ts3Spoofer\Ts3Spoofer\obj\Debug\net6.0-windows\Ts3Spoofer.csproj.GenerateResource.cache
+C:\Users\Daklu\Desktop\PW\Ts3Spoofer\Ts3Spoofer\obj\Debug\net6.0-windows\Ts3Spoofer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daklu\Desktop\PW\Ts3Spoofer\Ts3Spoofer\obj\Debug\net6.0-windows\Ts3Spoofer.AssemblyInfoInputs.cache
+C:\Users\Daklu\Desktop\PW\Ts3Spoofer\Ts3Spoofer\obj\Debug\net6.0-windows\Ts3Spoofer.AssemblyInfo.cs
+C:\Users\Daklu\Desktop\PW\Ts3Spoofer\Ts3Spoofer\obj\Debug\net6.0-windows\Ts3Spoofer.csproj.CoreCompileInputs.cache
+C:\Users\Daklu\Desktop\PW\Ts3Spoofer\Ts3Spoofer\obj\Debug\net6.0-windows\Ts3Spoofer.dll
+C:\Users\Daklu\Desktop\PW\Ts3Spoofer\Ts3Spoofer\obj\Debug\net6.0-windows\refint\Ts3Spoofer.dll
+C:\Users\Daklu\Desktop\PW\Ts3Spoofer\Ts3Spoofer\obj\Debug\net6.0-windows\Ts3Spoofer.pdb
+C:\Users\Daklu\Desktop\PW\Ts3Spoofer\Ts3Spoofer\obj\Debug\net6.0-windows\Ts3Spoofer.genruntimeconfig.cache
+C:\Users\Daklu\Desktop\PW\Ts3Spoofer\Ts3Spoofer\obj\Debug\net6.0-windows\ref\Ts3Spoofer.dll
